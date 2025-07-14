@@ -35,7 +35,7 @@ It is based on the **Financial PhraseBank dataset**, a curated collection of fin
 
 ## 🚀 Live Demo
 
-> 🔗 \https://stock-market-sentiment-analyze-fwrvwheqnkbrnqxfy2i5lp.streamlit.app/
+> 🔗 https://stock-market-sentiment-analyze-fwrvwheqnkbrnqxfy2i5lp.streamlit.app/
 
 ---
 
